@@ -1,1 +1,2 @@
-# quiz-site
+# Quiz-site
+created using vanilla javascript
